@@ -1,5 +1,6 @@
 
-from requests import get 
+from importlib.resources import path
+from os.path import exists
 from selenium import webdriver
 from selenium.webdriver import ChromeOptions
 
