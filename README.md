@@ -20,6 +20,10 @@ $ git clone https://github.com/ORobsonJr/Tiklytics/
 ```
 Entre na pasta do projeto 
 ```
+python3 install -r requirements.txt
+```
+
+```
 $ python3 start.py
 ```
 
